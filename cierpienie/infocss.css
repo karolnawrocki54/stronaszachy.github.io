@@ -1,0 +1,31 @@
+body {
+    background-image: url(lowkeycouzyjeinfo.png);
+}
+.powrot {
+    height: 100px;
+    width: 1620px;
+    position: absolute;
+    top: 0px;
+    left: 150px;
+}
+.szachinfo {
+    padding: 25px;
+    height: 700px;
+    width: 1200px;
+    top: 120px;
+    position: relative;
+    background-color: rgba(99, 140, 200, 0.4);
+
+}
+.paragraf {
+    color: rgb(230, 200, 250);
+    font-size: 20px;
+}
+.php {
+    width: 100px;
+    height: 45px;
+    background-color: rgba(200, 0, 130, 0.2);
+    position: relative;
+    top: 200px;
+    color: white;
+}

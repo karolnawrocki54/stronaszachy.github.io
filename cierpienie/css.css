@@ -1,0 +1,33 @@
+body {
+    background-image: url(lowkeycouzyje.png);
+
+}
+.szach1 {
+    width:300px;
+    height: 300px;
+    position: absolute;
+    left: 15.8%;
+    top: 628px;
+}
+.szach2 {
+    width:300px;
+    height: 300px;
+    position: absolute;
+    left: 42.2%;
+    top: 645px;
+}
+.szach3 {
+    width:300px;
+    height: 300px;
+    position: absolute;
+    left: 68.2%;
+    top: 645px;
+}
+.easteregg {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 340px;
+    left: 1400px;
+    background-color: rgba(190, 20, 70, 0.1);
+}
